@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I am T ARYAN RAJU
 
-img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 I am a Full stack web developer/ml enthusiast/game developer currently studying in MIT ADT university.<br>
 I also am one of the co-founders of 2DEV studios, a game development studio.<br>
