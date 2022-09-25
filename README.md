@@ -32,13 +32,12 @@ I am very eager to make websites solving reallife problems and am very confident
 ## Worked at
 #### These are a list of companies i have worked and frelanced for
 
-- Josh Software - Intern 6 months
 
 - Tech Mahindra - Project intern 2 months
 
 - VoltagoElectricals Pvt. Ltd. - Freelancing
 
-- BrikWrks - Intern 2 months
+- BrikWrks - Intern 4 months
 
 - HustleBix - Freelancing
 
